@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
-permalink: /science/
-tagline: "Humanity is overrated."
-category: "science"
+title: life
+permalink: /life/
+tagline: "daily life"
+category: "life"
 ---
